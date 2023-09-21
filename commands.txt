@@ -8,4 +8,5 @@ git log
 git log --online
 git log --onlin e--pretty
 git config --global -user.name
-git config --global -user.name
+git config --global -user.namie
+git checkout -b
